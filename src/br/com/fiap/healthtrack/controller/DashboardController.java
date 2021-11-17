@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/login")
-public class LoginController extends HttpServlet {
+@WebServlet("/dashboard")
+public class DashboardController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public LoginController() {
+    public DashboardController() {
         super();
     }
 
@@ -26,7 +26,7 @@ public class LoginController extends HttpServlet {
 
 		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("login.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("dashboard.jsp");  
 		rd.forward(request, response);
 	}
 }

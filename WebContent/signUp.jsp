@@ -38,7 +38,7 @@
                             <input type="password" placeholder="Senha" />
                         </div>
                     </form>
-                    <form action="dashboard.html">
+                    <form action="logon">
                         <input type="submit" value="Confirmar" class="btn solid" />
                     </form>
                     <form action="login">

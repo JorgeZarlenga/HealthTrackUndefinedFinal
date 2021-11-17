@@ -22,19 +22,19 @@
                     <form action="">
                         <h2 class="title">HealthTrack</h2>
                     </form>
-                    <form action="exercises.html">
+                    <form action="exerciseInput">
                         <input type="submit" value="Exercícios" class="btn solid" />
                     </form>
-                    <form action="food.html">
+                    <form action="foodInput">
                         <input type="submit" value="Alimentação" class="btn solid" />
                     </form>
-                    <form action="weight.html">
+                    <form action="weightInput">
                         <input type="submit" value="Peso" class="btn solid" />
                     </form>
-                    <form action="pressure.html">
+                    <form action="pressureInput">
                         <input type="submit" value="Pressão Arterial" class="btn solid" />
                     </form>
-                    <form action="login.html">
+                    <form action="login">
                         <input id="voltar" type="submit" value="Sair" class="btn solid" />
                     </form>
                 </div>
@@ -48,7 +48,7 @@
                     <p>
                         Objetivo: ganhar peso | Peso atual: 80,0 kg | Calorias: 2602 kcal
                     </p><br>
-                    <form action="profile.html">
+                    <form action="profile">
                         <input type="submit" value="Meu perfil" class="btn transparent" />
                     </form>
                 </div>
