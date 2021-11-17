@@ -1,4 +1,4 @@
-package br.com.fiap.healthtrack.controller;
+package br.com.fiap.healthtrack.controller.food;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/logon")
-public class LogonController extends HttpServlet {
+@WebServlet("/foodInput")
+public class FoodInputController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public LogonController() {
+    public FoodInputController() {
         super();
     }
 
@@ -26,7 +26,7 @@ public class LogonController extends HttpServlet {
 
 		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("dashboard.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("food.jsp");  
 		rd.forward(request, response);
 	}
 }

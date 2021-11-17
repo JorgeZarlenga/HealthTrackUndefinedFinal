@@ -38,10 +38,10 @@
                             <input type="date" placeholder="Data" />
                         </div>
                     </form>
-                    <form action="exercises-table.html">
+                    <form action="logExercise">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
-                    <form action="exercises-table.html">
+                    <form action="listExercises">
                         <input type="submit" value="HistÃ³rico" class="btn solid" />
                     </form>
                     <form action="dashboard">

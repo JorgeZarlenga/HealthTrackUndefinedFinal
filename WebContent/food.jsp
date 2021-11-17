@@ -37,10 +37,10 @@
                             <input type="datetime-local" placeholder="Data e horÃ¡rio" />
                         </div>
                     </form>
-                    <form action="food-table.html">
+                    <form action="logFood">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
-                    <form action="food-table.html">
+                    <form action="listFoods">
                         <input type="submit" value="HistÃ³rico" class="btn solid" />
                     </form>
                     <form action="dashboard">

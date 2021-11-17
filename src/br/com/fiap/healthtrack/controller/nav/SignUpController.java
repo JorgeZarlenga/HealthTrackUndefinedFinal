@@ -1,4 +1,4 @@
-package br.com.fiap.healthtrack.controller;
+package br.com.fiap.healthtrack.controller.nav;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/dashboard")
-public class DashboardController extends HttpServlet {
+@WebServlet("/signUp")
+public class SignUpController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public DashboardController() {
+    public SignUpController() {
         super();
     }
 
@@ -26,7 +26,7 @@ public class DashboardController extends HttpServlet {
 
 		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("dashboard.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("signUp.jsp");  
 		rd.forward(request, response);
 	}
 }

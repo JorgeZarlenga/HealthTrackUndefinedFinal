@@ -30,10 +30,10 @@
                             <input type="date" placeholder="Data" />
                         </div>
                     </form>
-                    <form action="weight-table.html">
+                    <form action="logWeight">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
-                    <form action="weight-table.html">
+                    <form action="listWeights">
                         <input type="submit" value="HistÃ³rico" class="btn solid" />
                     </form>
                     <form action="dashboard">

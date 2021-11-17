@@ -1,4 +1,4 @@
-package br.com.fiap.healthtrack.controller;
+package br.com.fiap.healthtrack.controller.pressure;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/foodInput")
-public class FoodInputController extends HttpServlet {
+@WebServlet("/pressureInput")
+public class PressureInputController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public FoodInputController() {
+    public PressureInputController() {
         super();
     }
 
@@ -23,10 +23,8 @@ public class FoodInputController extends HttpServlet {
 		
     	//Java
     	
-
-		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("food.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("pressure.jsp");  
 		rd.forward(request, response);
 	}
 }

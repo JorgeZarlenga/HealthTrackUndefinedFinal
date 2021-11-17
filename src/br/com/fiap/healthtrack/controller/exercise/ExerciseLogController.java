@@ -1,4 +1,4 @@
-package br.com.fiap.healthtrack.controller;
+package br.com.fiap.healthtrack.controller.exercise;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/exerciseInput")
-public class ExerciseInputController extends HttpServlet {
+@WebServlet("/logExercise")
+public class ExerciseLogController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public ExerciseInputController() {
+    public ExerciseLogController() {
         super();
     }
 
@@ -26,7 +26,7 @@ public class ExerciseInputController extends HttpServlet {
 
 		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("login.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("exercises-table.jsp");  
 		rd.forward(request, response);
 	}
 }

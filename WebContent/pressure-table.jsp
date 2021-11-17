@@ -58,7 +58,7 @@
                     <form action="">
                         <input id="iniciar" type="submit" value="Editar" class="btn solid" />
                     </form>
-                    <form action="pressure.html">
+                    <form action="listPressures">
                         <input id="voltar" type="submit" value="Voltar" class="btn solid" />
                     </form>
                 </div>

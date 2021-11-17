@@ -1,4 +1,4 @@
-package br.com.fiap.healthtrack.controller;
+package br.com.fiap.healthtrack.controller.weight;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/profile")
-public class ProfileController extends HttpServlet {
+@WebServlet("/listExercises")
+public class WeightHistoryController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-    public ProfileController() {
+    public WeightHistoryController() {
         super();
     }
 
@@ -26,7 +26,7 @@ public class ProfileController extends HttpServlet {
 
 		
 		//Web
-		RequestDispatcher rd = request.getRequestDispatcher("profile.jsp");  
+		RequestDispatcher rd = request.getRequestDispatcher("weight-table.jsp");  
 		rd.forward(request, response);
 	}
 }

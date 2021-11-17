@@ -30,10 +30,10 @@
                             <input type="text" placeholder="PressÃ£o DiastÃ³lica " />
                         </div>
                     </form>
-                    <form action="pressure-table.html">
+                    <form action="logPressure">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
-                    <form action="pressure-table.html">
+                    <form action="listPressures">
                         <input type="submit" value="HistÃ³rico" class="btn solid" />
                     </form>
                     <form action="dashboard">
@@ -55,7 +55,7 @@
                     <form action="weight.html">
                         <input type="submit" value="Peso" class="btn transparent" />
                     </form><br>
-                    <form action="profile.html">
+                    <form action="profile">
                         <input type="submit" value="Meu perfil" class="btn transparent" />
                     </form>
                 </div>

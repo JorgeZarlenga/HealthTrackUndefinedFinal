@@ -61,7 +61,7 @@
                     <form action="">
                         <input id="iniciar" type="submit" value="Editar" class="btn solid" />
                     </form>
-                    <form action="exercises.html">
+                    <form action="listExercises">
                         <input id="voltar" type="submit" value="Voltar" class="btn solid" />
                     </form>
                 </div>
