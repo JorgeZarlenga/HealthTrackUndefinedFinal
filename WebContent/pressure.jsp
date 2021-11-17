@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/topics.css">
-    <title>PressÃ£o Arterial | HealthTrack</title>
+    <title>Pressão Arterial | HealthTrack</title>
 </head>
 
 <body>
@@ -20,21 +20,21 @@
             <div class="forms-1" id="pressure">
                 <div class="forms-2">
                     <form action="">
-                        <h2 class="title">PressÃ£o Arterial</h2>
+                        <h2 class="title">Pressão Arterial</h2>
                         <div class="input-field">
                             <i class="fas fa-heartbeat"></i>
-                            <input type="text" placeholder="PressÃ£o SistÃ³lica" />
+                            <input type="text" placeholder="Pressão Sistólica" />
                         </div>
                         <div class="input-field">
                             <i class="fas fa-heartbeat"></i>
-                            <input type="text" placeholder="PressÃ£o DiastÃ³lica " />
+                            <input type="text" placeholder="Pressão Diastólica" />
                         </div>
                     </form>
                     <form action="pressure-table.html">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
                     <form action="pressure-table.html">
-                        <input type="submit" value="HistÃ³rico" class="btn solid" />
+                        <input type="submit" value="Histórico" class="btn solid" />
                     </form>
                     <form action="dashboard.html">
                         <input id="voltar" type="submit" value="Voltar ao menu" class="btn solid" />
@@ -47,10 +47,10 @@
             <div class="panel left-panel">
                 <div class="content">
                     <form action="exercises.html">
-                        <input type="submit" value="ExercÃ­cios" class="btn transparent" />
+                        <input type="submit" value="Exercícios" class="btn transparent" />
                     </form><br>
                     <form action="food.html">
-                        <input type="submit" value="AlimentaÃ§Ã£o" class="btn transparent" />
+                        <input type="submit" value="Alimentação" class="btn transparent" />
                     </form><br>
                     <form action="weight.html">
                         <input type="submit" value="Peso" class="btn transparent" />
@@ -59,7 +59,7 @@
                         <input type="submit" value="Meu perfil" class="btn transparent" />
                     </form>
                 </div>
-                <img src="images/pressÃ£o.svg" class="image" />
+                <img src="images/pressão.svg" class="image" />
             </div>
         </div>
     </div>

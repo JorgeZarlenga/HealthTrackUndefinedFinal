@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="css/tables.css">
-    <title>ExercÃ­cios - HistÃ³rico | HealthTrack</title>
+    <title>Exercícios - Histórico | HealthTrack</title>
 </head>
 
 <body>
@@ -27,7 +27,7 @@
                                   <tr>
                                     <th scope="col"></th>
                                     <th scope="col">Atividade</th>
-                                    <th scope="col">DuraÃ§Ã£o</th>
+                                    <th scope="col">Duração</th>
                                     <th scope="col">Calorias gastas</th>
                                     <th scope="col">Data</th>
                                   </tr>
@@ -71,9 +71,9 @@
         <div class="panels-container">
             <div class="panel left-panel">
                 <div class="content">
-                    <h1>HistÃ³rico de ExercÃ­cios</h1>
+                    <h1>Histórico de Exercícios</h1>
                 </div>
-                <img src="images/exercÃ­cios.svg" class="image" />
+                <img src="images/exercícios.svg" class="image" />
             </div>
         </div>
     </div>

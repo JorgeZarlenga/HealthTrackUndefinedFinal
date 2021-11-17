@@ -44,17 +44,6 @@
                     <form action="login">
                         <input id="voltar" type="submit" value="Já tenho uma conta" class="btn solid" />
                     </form>
-                    <form action="">
-                        <p class="social-text">Ou crie sua conta com redes sociais</p>
-                        <div class="social-media">
-                            <a href="" class="social-icon">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="" class="social-icon">
-                                <i class="fab fa-google"></i>
-                            </a>
-                        </div>
-                    </form>
                 </div>
             </div>
         </div>
@@ -64,7 +53,7 @@
                 <div class="content">
                     <h3>Bem vindo ao HealthTrack!</h3>
                     <p>
-                        Novo por aqui? FaÃ§a uma conta e viva uma vida muito mais saudÃ¡vel.
+                        Novo por aqui? Faça uma conta e viva uma vida muito mais saudável.
                     </p>
                 </div>
                 <img src="images/fitness.svg" class="image" alt="" />

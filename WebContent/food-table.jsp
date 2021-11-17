@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="css/tables.css">
-    <title>AlimentaÃ§Ã£o - HistÃ³rico | HealthTrack</title>
+    <title>Alimentação - Histórico | HealthTrack</title>
 </head>
 
 <body>
@@ -42,7 +42,7 @@
                                     </tr>
                                     <tr>
                                       <th scope="row">2</th>
-                                      <td>HambÃºrguer</td>
+                                      <td>Lasanha</td>
                                       <td>230gr</td>
                                       <td>581 kcal</td>
                                       <td>29/06/2021 12:15</td>
@@ -71,7 +71,7 @@
         <div class="panels-container">
             <div class="panel left-panel">
                 <div class="content">
-                    <h1>HistÃ³rico de RefeiÃ§Ãµes</h1>
+                    <h1>Histórico de Refeições</h1>
                 </div>
                 <img src="images/comida.svg" class="image" />
             </div>

@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/topics.css">
-    <title>AlimentaÃ§Ã£o | HealthTrack</title>
+    <title>Alimentação | HealthTrack</title>
 </head>
 
 <body>
@@ -19,7 +19,7 @@
             <div class="forms-1">
                 <div class="forms-2">
                     <form action="">
-                        <h2 class="title">AlimentaÃ§Ã£o</h2>
+                        <h2 class="title">Alimentação</h2>
                         <div class="input-field">
                             <i class="fas fa-apple-alt"></i>
                             <input type="text" placeholder="Alimento consumido" />
@@ -34,14 +34,14 @@
                         </div>
                         <div class="input-field">
                             <i class="far fa-calendar"></i>
-                            <input type="datetime-local" placeholder="Data e horÃ¡rio" />
+                            <input type="datetime-local" placeholder="Data e horário" />
                         </div>
                     </form>
                     <form action="food-table.html">
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
                     <form action="food-table.html">
-                        <input type="submit" value="HistÃ³rico" class="btn solid" />
+                        <input type="submit" value="Histórico" class="btn solid" />
                     </form>
                     <form action="dashboard.html">
                         <input id="voltar" type="submit" value="Voltar ao menu" class="btn solid" />
@@ -54,13 +54,13 @@
             <div class="panel left-panel">
                 <div class="content">
                     <form action="exercises.html">
-                        <input type="submit" value="ExercÃ­cios" class="btn transparent" />
+                        <input type="submit" value="Exercícios" class="btn transparent" />
                     </form><br>
                     <form action="weight.html">
                         <input type="submit" value="Peso" class="btn transparent" />
                     </form><br>
                     <form action="pressure.html">
-                        <input type="submit" value="PressÃ£o Arterial" class="btn transparent" />
+                        <input type="submit" value="Pressão Arterial" class="btn transparent" />
                     </form><br>
                     <form action="profile.html">
                         <input type="submit" value="Meu perfil" class="btn transparent" />
