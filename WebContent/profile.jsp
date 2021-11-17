@@ -30,7 +30,7 @@
                         </div>
                         <div class="input-field">
                             <i class="fas fa-venus-mars"></i>
-                            <input type="text" placeholder="GÃªnero (M / F / Outro)" />
+                            <input type="text" placeholder="Gênero (M / F / Outro)" />
                         </div>
                     </form>
                     <form action="dashboard.html">
@@ -47,16 +47,16 @@
             <div class="panel left-panel">
                 <div class="content">
                     <form action="exercises.html">
-                        <input type="submit" value="ExercÃ­cios" class="btn transparent" />
+                        <input type="submit" value="Exercícios" class="btn transparent" />
                     </form><br>
                     <form action="food.html">
-                        <input type="submit" value="AlimentaÃ§Ã£o" class="btn transparent" />
+                        <input type="submit" value="Alimentação" class="btn transparent" />
                     </form><br>
                     <form action="weight.html">
                         <input type="submit" value="Peso" class="btn transparent" />
                     </form><br>
                     <form action="pressure.html">
-                        <input type="submit" value="PressÃ£o Arterial" class="btn transparent" />
+                        <input type="submit" value="Pressão Arterial" class="btn transparent" />
                     </form>
                 </div>
                 <img src="images/perfil.svg" class="image" />

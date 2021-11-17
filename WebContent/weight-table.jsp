@@ -13,7 +13,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="css/tables.css">
-    <title>Peso - HistÃ³rico | HealthTrack</title>
+    <title>Peso - Histórico | HealthTrack</title>
 </head>
 
 <body>
@@ -64,7 +64,7 @@
         <div class="panels-container">
             <div class="panel left-panel">
                 <div class="content">
-                    <h1>HistÃ³rico de Peso</h1>
+                    <h1>Histórico de Peso</h1>
                 </div>
                 <img src="images/peso.svg" class="image" />
             </div>

@@ -34,7 +34,7 @@
                         <input id="iniciar" type="submit" value="Registrar" class="btn solid" />
                     </form>
                     <form action="weight-table.html">
-                        <input type="submit" value="HistÃ³rico" class="btn solid" />
+                        <input type="submit" value="Histórico" class="btn solid" />
                     </form>
                     <form action="dashboard">
                         <input id="voltar" type="submit" value="Voltar ao menu" class="btn solid" />
@@ -47,13 +47,13 @@
             <div class="panel left-panel">
                 <div class="content">
                     <form action="exercises.html">
-                        <input type="submit" value="ExercÃ­cios" class="btn transparent" />
+                        <input type="submit" value="Exercícios" class="btn transparent" />
                     </form><br>
                     <form action="food.html">
-                        <input type="submit" value="AlimentaÃ§Ã£o" class="btn transparent" />
+                        <input type="submit" value="Alimentação" class="btn transparent" />
                     </form><br>
                     <form action="pressure.html">
-                        <input type="submit" value="PressÃ£o Arterial" class="btn transparent" />
+                        <input type="submit" value="Pressão Arterial" class="btn transparent" />
                     </form><br>
                     <form action="profile.html">
                         <input type="submit" value="Meu perfil" class="btn transparent" />

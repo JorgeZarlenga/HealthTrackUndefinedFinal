@@ -13,7 +13,7 @@
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="css/tables.css">
-    <title>PressÃ£o Arterial - HistÃ³rico | HealthTrack</title>
+    <title>Pressão Arterial - Histórico | HealthTrack</title>
 </head>
 
 <body>
@@ -27,8 +27,8 @@
                                 <thead>
                                     <tr>
                                         <th scope="col"></th>
-                                        <th scope="col">PressÃ£o SistÃ³lica</th>
-                                        <th scope="col">PressÃ£o DiastÃ³lica</th>
+                                        <th scope="col">Pressão Sistólica</th>
+                                        <th scope="col">Pressão Diastólica</th>
                                         <th scope="col">Data</th>
                                     </tr>
                                 </thead>
@@ -68,9 +68,9 @@
         <div class="panels-container">
             <div class="panel left-panel">
                 <div class="content">
-                    <h1>HistÃ³rico de PressÃ£o</h1>
+                    <h1>Histórico de Pressão</h1>
                 </div>
-                <img src="images/pressÃ£o.svg" class="image" />
+                <img src="images/pressão.svg" class="image" />
             </div>
         </div>
     </div>

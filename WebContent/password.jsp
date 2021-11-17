@@ -40,7 +40,7 @@
                 <div class="content">
                     <h3>Esqueceu sua senha do HealthTrack?</h3>
                     <p>
-                        Sem problemas! Basta inserir o seu email no campo ao lado e enviaremos um link com as instruÃ§Ãµes.
+                        Sem problemas! Basta inserir o seu email no campo ao lado e enviaremos um link com as instruções.
                     </p>
                 </div>
                 <img src="images/senha.svg" class="image"/>
