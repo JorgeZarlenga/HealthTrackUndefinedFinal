@@ -43,7 +43,7 @@
                     <form action="food-table.html">
                         <input type="submit" value="HistÃ³rico" class="btn solid" />
                     </form>
-                    <form action="dashboard.html">
+                    <form action="dashboard">
                         <input id="voltar" type="submit" value="Voltar ao menu" class="btn solid" />
                     </form>
                 </div>
